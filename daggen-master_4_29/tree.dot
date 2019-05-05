@@ -1,0 +1,964 @@
+digraph G {0 [label = "Q=396.46
+N=100
+ Q/N=3.96"]
+0 -> 1 [label = "t=1, p=0, uct=3.38"]
+1 [label = "Q=67.59
+N=17
+ Q/N=3.98"]
+1 -> 55 [label = "t=0, p=0, uct=6.03"]
+55 [label = "Q=23.05
+N=5
+ Q/N=4.61"]
+55 -> 205 [label = "t=7, p=0, uct=13.58"]
+205 [label = "Q=4.36
+N=1
+ Q/N=4.36"]
+55 -> 206 [label = "t=6, p=0, uct=13.45"]
+206 [label = "Q=4.50
+N=1
+ Q/N=4.50"]
+55 -> 207 [label = "t=5, p=0, uct=12.82"]
+207 [label = "Q=5.12
+N=1
+ Q/N=5.12"]
+55 -> 208 [label = "t=4, p=0, uct=13.54"]
+208 [label = "Q=4.40
+N=1
+ Q/N=4.40"]
+55 -> 209 [label = "t=3, p=0, uct=-nan"]
+209 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 210 [label = "t=2, p=0, uct=-nan"]
+210 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 211 [label = "t=7, p=1, uct=-nan"]
+211 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 212 [label = "t=6, p=1, uct=-nan"]
+212 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 213 [label = "t=5, p=1, uct=-nan"]
+213 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 214 [label = "t=4, p=1, uct=-nan"]
+214 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 215 [label = "t=3, p=1, uct=-nan"]
+215 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 216 [label = "t=2, p=1, uct=-nan"]
+216 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 217 [label = "t=7, p=2, uct=-nan"]
+217 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 218 [label = "t=6, p=2, uct=-nan"]
+218 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 219 [label = "t=5, p=2, uct=-nan"]
+219 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 220 [label = "t=4, p=2, uct=-nan"]
+220 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 221 [label = "t=3, p=2, uct=-nan"]
+221 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+55 -> 222 [label = "t=2, p=2, uct=-nan"]
+222 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+1 -> 56 [label = "t=0, p=1, uct=6.60"]
+56 [label = "Q=20.24
+N=5
+ Q/N=4.05"]
+56 -> 151 [label = "t=7, p=0, uct=14.31"]
+151 [label = "Q=3.63
+N=1
+ Q/N=3.63"]
+56 -> 152 [label = "t=6, p=0, uct=14.21"]
+152 [label = "Q=3.73
+N=1
+ Q/N=3.73"]
+56 -> 153 [label = "t=5, p=0, uct=14.34"]
+153 [label = "Q=3.61
+N=1
+ Q/N=3.61"]
+56 -> 154 [label = "t=4, p=0, uct=12.69"]
+154 [label = "Q=5.25
+N=1
+ Q/N=5.25"]
+56 -> 155 [label = "t=3, p=0, uct=-nan"]
+155 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 156 [label = "t=2, p=0, uct=-nan"]
+156 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 157 [label = "t=7, p=1, uct=-nan"]
+157 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 158 [label = "t=6, p=1, uct=-nan"]
+158 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 159 [label = "t=5, p=1, uct=-nan"]
+159 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 160 [label = "t=4, p=1, uct=-nan"]
+160 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 161 [label = "t=3, p=1, uct=-nan"]
+161 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 162 [label = "t=2, p=1, uct=-nan"]
+162 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 163 [label = "t=7, p=2, uct=-nan"]
+163 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 164 [label = "t=6, p=2, uct=-nan"]
+164 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 165 [label = "t=5, p=2, uct=-nan"]
+165 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 166 [label = "t=4, p=2, uct=-nan"]
+166 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 167 [label = "t=3, p=2, uct=-nan"]
+167 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+56 -> 168 [label = "t=2, p=2, uct=-nan"]
+168 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+1 -> 57 [label = "t=0, p=2, uct=6.40"]
+57 [label = "Q=19.91
+N=6
+ Q/N=3.32"]
+57 -> 115 [label = "t=7, p=0, uct=15.60"]
+115 [label = "Q=3.33
+N=1
+ Q/N=3.33"]
+57 -> 116 [label = "t=6, p=0, uct=15.80"]
+116 [label = "Q=3.13
+N=1
+ Q/N=3.13"]
+57 -> 117 [label = "t=5, p=0, uct=15.28"]
+117 [label = "Q=3.65
+N=1
+ Q/N=3.65"]
+57 -> 118 [label = "t=4, p=0, uct=15.84"]
+118 [label = "Q=3.09
+N=1
+ Q/N=3.09"]
+57 -> 119 [label = "t=3, p=0, uct=15.81"]
+119 [label = "Q=3.13
+N=1
+ Q/N=3.13"]
+57 -> 120 [label = "t=2, p=0, uct=-nan"]
+120 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 121 [label = "t=7, p=1, uct=-nan"]
+121 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 122 [label = "t=6, p=1, uct=-nan"]
+122 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 123 [label = "t=5, p=1, uct=-nan"]
+123 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 124 [label = "t=4, p=1, uct=-nan"]
+124 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 125 [label = "t=3, p=1, uct=-nan"]
+125 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 126 [label = "t=2, p=1, uct=-nan"]
+126 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 127 [label = "t=7, p=2, uct=-nan"]
+127 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 128 [label = "t=6, p=2, uct=-nan"]
+128 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 129 [label = "t=5, p=2, uct=-nan"]
+129 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 130 [label = "t=4, p=2, uct=-nan"]
+130 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 131 [label = "t=3, p=2, uct=-nan"]
+131 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+57 -> 132 [label = "t=2, p=2, uct=-nan"]
+132 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+0 -> 2 [label = "t=0, p=0, uct=3.51"]
+2 [label = "Q=65.47
+N=17
+ Q/N=3.85"]
+2 -> 31 [label = "t=7, p=0, uct=20.39"]
+31 [label = "Q=3.42
+N=1
+ Q/N=3.42"]
+2 -> 32 [label = "t=6, p=0, uct=20.32"]
+32 [label = "Q=3.48
+N=1
+ Q/N=3.48"]
+2 -> 33 [label = "t=5, p=0, uct=19.86"]
+33 [label = "Q=3.95
+N=1
+ Q/N=3.95"]
+2 -> 34 [label = "t=4, p=0, uct=19.82"]
+34 [label = "Q=3.98
+N=1
+ Q/N=3.98"]
+2 -> 35 [label = "t=3, p=0, uct=19.98"]
+35 [label = "Q=3.82
+N=1
+ Q/N=3.82"]
+2 -> 36 [label = "t=2, p=0, uct=19.93"]
+36 [label = "Q=3.88
+N=1
+ Q/N=3.88"]
+2 -> 37 [label = "t=1, p=0, uct=20.10"]
+37 [label = "Q=3.70
+N=1
+ Q/N=3.70"]
+2 -> 38 [label = "t=7, p=1, uct=20.05"]
+38 [label = "Q=3.76
+N=1
+ Q/N=3.76"]
+2 -> 39 [label = "t=6, p=1, uct=20.57"]
+39 [label = "Q=3.24
+N=1
+ Q/N=3.24"]
+2 -> 40 [label = "t=5, p=1, uct=19.92"]
+40 [label = "Q=3.88
+N=1
+ Q/N=3.88"]
+2 -> 41 [label = "t=4, p=1, uct=20.05"]
+41 [label = "Q=3.76
+N=1
+ Q/N=3.76"]
+2 -> 42 [label = "t=3, p=1, uct=19.51"]
+42 [label = "Q=4.30
+N=1
+ Q/N=4.30"]
+2 -> 43 [label = "t=2, p=1, uct=19.29"]
+43 [label = "Q=4.51
+N=1
+ Q/N=4.51"]
+2 -> 44 [label = "t=1, p=1, uct=19.87"]
+44 [label = "Q=3.93
+N=1
+ Q/N=3.93"]
+2 -> 45 [label = "t=7, p=2, uct=19.42"]
+45 [label = "Q=4.38
+N=1
+ Q/N=4.38"]
+2 -> 46 [label = "t=6, p=2, uct=19.94"]
+46 [label = "Q=3.86
+N=1
+ Q/N=3.86"]
+2 -> 47 [label = "t=5, p=2, uct=-nan"]
+47 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+2 -> 48 [label = "t=4, p=2, uct=-nan"]
+48 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+2 -> 49 [label = "t=3, p=2, uct=-nan"]
+49 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+2 -> 50 [label = "t=2, p=2, uct=-nan"]
+50 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+2 -> 51 [label = "t=1, p=2, uct=-nan"]
+51 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+0 -> 3 [label = "t=1, p=1, uct=3.50"]
+3 [label = "Q=64.99
+N=15
+ Q/N=4.33"]
+3 -> 52 [label = "t=0, p=0, uct=5.99"]
+52 [label = "Q=22.07
+N=5
+ Q/N=4.41"]
+52 -> 97 [label = "t=7, p=0, uct=12.94"]
+97 [label = "Q=5.00
+N=1
+ Q/N=5.00"]
+52 -> 98 [label = "t=6, p=0, uct=11.87"]
+98 [label = "Q=6.07
+N=1
+ Q/N=6.07"]
+52 -> 99 [label = "t=5, p=0, uct=14.50"]
+99 [label = "Q=3.44
+N=1
+ Q/N=3.44"]
+52 -> 100 [label = "t=4, p=0, uct=13.85"]
+100 [label = "Q=4.09
+N=1
+ Q/N=4.09"]
+52 -> 101 [label = "t=3, p=0, uct=-nan"]
+101 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 102 [label = "t=2, p=0, uct=-nan"]
+102 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 103 [label = "t=7, p=1, uct=-nan"]
+103 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 104 [label = "t=6, p=1, uct=-nan"]
+104 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 105 [label = "t=5, p=1, uct=-nan"]
+105 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 106 [label = "t=4, p=1, uct=-nan"]
+106 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 107 [label = "t=3, p=1, uct=-nan"]
+107 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 108 [label = "t=2, p=1, uct=-nan"]
+108 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 109 [label = "t=7, p=2, uct=-nan"]
+109 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 110 [label = "t=6, p=2, uct=-nan"]
+110 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 111 [label = "t=5, p=2, uct=-nan"]
+111 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 112 [label = "t=4, p=2, uct=-nan"]
+112 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 113 [label = "t=3, p=2, uct=-nan"]
+113 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+52 -> 114 [label = "t=2, p=2, uct=-nan"]
+114 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+3 -> 53 [label = "t=0, p=1, uct=6.31"]
+53 [label = "Q=21.31
+N=4
+ Q/N=5.33"]
+53 -> 223 [label = "t=7, p=0, uct=11.28"]
+223 [label = "Q=5.37
+N=1
+ Q/N=5.37"]
+53 -> 224 [label = "t=6, p=0, uct=11.52"]
+224 [label = "Q=5.13
+N=1
+ Q/N=5.13"]
+53 -> 225 [label = "t=5, p=0, uct=11.25"]
+225 [label = "Q=5.40
+N=1
+ Q/N=5.40"]
+53 -> 226 [label = "t=4, p=0, uct=-nan"]
+226 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 227 [label = "t=3, p=0, uct=-nan"]
+227 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 228 [label = "t=2, p=0, uct=-nan"]
+228 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 229 [label = "t=7, p=1, uct=-nan"]
+229 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 230 [label = "t=6, p=1, uct=-nan"]
+230 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 231 [label = "t=5, p=1, uct=-nan"]
+231 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 232 [label = "t=4, p=1, uct=-nan"]
+232 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 233 [label = "t=3, p=1, uct=-nan"]
+233 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 234 [label = "t=2, p=1, uct=-nan"]
+234 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 235 [label = "t=7, p=2, uct=-nan"]
+235 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 236 [label = "t=6, p=2, uct=-nan"]
+236 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 237 [label = "t=5, p=2, uct=-nan"]
+237 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 238 [label = "t=4, p=2, uct=-nan"]
+238 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 239 [label = "t=3, p=2, uct=-nan"]
+239 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+53 -> 240 [label = "t=2, p=2, uct=-nan"]
+240 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+3 -> 54 [label = "t=0, p=2, uct=6.88"]
+54 [label = "Q=17.62
+N=5
+ Q/N=3.52"]
+54 -> 169 [label = "t=7, p=0, uct=14.38"]
+169 [label = "Q=3.56
+N=1
+ Q/N=3.56"]
+54 -> 170 [label = "t=6, p=0, uct=14.23"]
+170 [label = "Q=3.71
+N=1
+ Q/N=3.71"]
+54 -> 171 [label = "t=5, p=0, uct=14.72"]
+171 [label = "Q=3.22
+N=1
+ Q/N=3.22"]
+54 -> 172 [label = "t=4, p=0, uct=14.40"]
+172 [label = "Q=3.54
+N=1
+ Q/N=3.54"]
+54 -> 173 [label = "t=3, p=0, uct=-nan"]
+173 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 174 [label = "t=2, p=0, uct=-nan"]
+174 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 175 [label = "t=7, p=1, uct=-nan"]
+175 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 176 [label = "t=6, p=1, uct=-nan"]
+176 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 177 [label = "t=5, p=1, uct=-nan"]
+177 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 178 [label = "t=4, p=1, uct=-nan"]
+178 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 179 [label = "t=3, p=1, uct=-nan"]
+179 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 180 [label = "t=2, p=1, uct=-nan"]
+180 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 181 [label = "t=7, p=2, uct=-nan"]
+181 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 182 [label = "t=6, p=2, uct=-nan"]
+182 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 183 [label = "t=5, p=2, uct=-nan"]
+183 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 184 [label = "t=4, p=2, uct=-nan"]
+184 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 185 [label = "t=3, p=2, uct=-nan"]
+185 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+54 -> 186 [label = "t=2, p=2, uct=-nan"]
+186 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+0 -> 4 [label = "t=0, p=1, uct=3.46"]
+4 [label = "Q=65.98
+N=16
+ Q/N=4.12"]
+4 -> 58 [label = "t=7, p=0, uct=19.51"]
+58 [label = "Q=4.04
+N=1
+ Q/N=4.04"]
+4 -> 59 [label = "t=6, p=0, uct=19.78"]
+59 [label = "Q=3.76
+N=1
+ Q/N=3.76"]
+4 -> 60 [label = "t=5, p=0, uct=19.15"]
+60 [label = "Q=4.40
+N=1
+ Q/N=4.40"]
+4 -> 61 [label = "t=4, p=0, uct=19.23"]
+61 [label = "Q=4.31
+N=1
+ Q/N=4.31"]
+4 -> 62 [label = "t=3, p=0, uct=19.49"]
+62 [label = "Q=4.05
+N=1
+ Q/N=4.05"]
+4 -> 63 [label = "t=2, p=0, uct=19.50"]
+63 [label = "Q=4.05
+N=1
+ Q/N=4.05"]
+4 -> 64 [label = "t=1, p=0, uct=19.99"]
+64 [label = "Q=3.56
+N=1
+ Q/N=3.56"]
+4 -> 65 [label = "t=7, p=1, uct=19.31"]
+65 [label = "Q=4.24
+N=1
+ Q/N=4.24"]
+4 -> 66 [label = "t=6, p=1, uct=20.12"]
+66 [label = "Q=3.43
+N=1
+ Q/N=3.43"]
+4 -> 67 [label = "t=5, p=1, uct=19.73"]
+67 [label = "Q=3.82
+N=1
+ Q/N=3.82"]
+4 -> 68 [label = "t=4, p=1, uct=19.31"]
+68 [label = "Q=4.24
+N=1
+ Q/N=4.24"]
+4 -> 69 [label = "t=3, p=1, uct=19.72"]
+69 [label = "Q=3.83
+N=1
+ Q/N=3.83"]
+4 -> 70 [label = "t=2, p=1, uct=19.62"]
+70 [label = "Q=3.93
+N=1
+ Q/N=3.93"]
+4 -> 71 [label = "t=1, p=1, uct=19.58"]
+71 [label = "Q=3.97
+N=1
+ Q/N=3.97"]
+4 -> 72 [label = "t=7, p=2, uct=19.25"]
+72 [label = "Q=4.29
+N=1
+ Q/N=4.29"]
+4 -> 73 [label = "t=6, p=2, uct=-nan"]
+73 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+4 -> 74 [label = "t=5, p=2, uct=-nan"]
+74 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+4 -> 75 [label = "t=4, p=2, uct=-nan"]
+75 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+4 -> 76 [label = "t=3, p=2, uct=-nan"]
+76 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+4 -> 77 [label = "t=2, p=2, uct=-nan"]
+77 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+4 -> 78 [label = "t=1, p=2, uct=-nan"]
+78 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+0 -> 5 [label = "t=1, p=2, uct=3.38"]
+5 [label = "Q=67.96
+N=18
+ Q/N=3.78"]
+5 -> 7 [label = "t=0, p=0, uct=6.36"]
+7 [label = "Q=20.72
+N=6
+ Q/N=3.45"]
+7 -> 79 [label = "t=7, p=0, uct=15.08"]
+79 [label = "Q=3.85
+N=1
+ Q/N=3.85"]
+7 -> 80 [label = "t=6, p=0, uct=15.63"]
+80 [label = "Q=3.30
+N=1
+ Q/N=3.30"]
+7 -> 81 [label = "t=5, p=0, uct=15.47"]
+81 [label = "Q=3.46
+N=1
+ Q/N=3.46"]
+7 -> 82 [label = "t=4, p=0, uct=15.71"]
+82 [label = "Q=3.22
+N=1
+ Q/N=3.22"]
+7 -> 83 [label = "t=3, p=0, uct=15.25"]
+83 [label = "Q=3.68
+N=1
+ Q/N=3.68"]
+7 -> 84 [label = "t=2, p=0, uct=-nan"]
+84 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 85 [label = "t=7, p=1, uct=-nan"]
+85 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 86 [label = "t=6, p=1, uct=-nan"]
+86 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 87 [label = "t=5, p=1, uct=-nan"]
+87 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 88 [label = "t=4, p=1, uct=-nan"]
+88 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 89 [label = "t=3, p=1, uct=-nan"]
+89 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 90 [label = "t=2, p=1, uct=-nan"]
+90 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 91 [label = "t=7, p=2, uct=-nan"]
+91 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 92 [label = "t=6, p=2, uct=-nan"]
+92 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 93 [label = "t=5, p=2, uct=-nan"]
+93 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 94 [label = "t=4, p=2, uct=-nan"]
+94 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 95 [label = "t=3, p=2, uct=-nan"]
+95 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+7 -> 96 [label = "t=2, p=2, uct=-nan"]
+96 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+5 -> 8 [label = "t=0, p=1, uct=6.16"]
+8 [label = "Q=21.94
+N=6
+ Q/N=3.66"]
+8 -> 133 [label = "t=7, p=0, uct=15.41"]
+133 [label = "Q=3.52
+N=1
+ Q/N=3.52"]
+8 -> 134 [label = "t=6, p=0, uct=15.34"]
+134 [label = "Q=3.59
+N=1
+ Q/N=3.59"]
+8 -> 135 [label = "t=5, p=0, uct=15.39"]
+135 [label = "Q=3.54
+N=1
+ Q/N=3.54"]
+8 -> 136 [label = "t=4, p=0, uct=15.34"]
+136 [label = "Q=3.59
+N=1
+ Q/N=3.59"]
+8 -> 137 [label = "t=3, p=0, uct=15.05"]
+137 [label = "Q=3.88
+N=1
+ Q/N=3.88"]
+8 -> 138 [label = "t=2, p=0, uct=-nan"]
+138 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 139 [label = "t=7, p=1, uct=-nan"]
+139 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 140 [label = "t=6, p=1, uct=-nan"]
+140 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 141 [label = "t=5, p=1, uct=-nan"]
+141 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 142 [label = "t=4, p=1, uct=-nan"]
+142 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 143 [label = "t=3, p=1, uct=-nan"]
+143 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 144 [label = "t=2, p=1, uct=-nan"]
+144 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 145 [label = "t=7, p=2, uct=-nan"]
+145 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 146 [label = "t=6, p=2, uct=-nan"]
+146 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 147 [label = "t=5, p=2, uct=-nan"]
+147 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 148 [label = "t=4, p=2, uct=-nan"]
+148 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 149 [label = "t=3, p=2, uct=-nan"]
+149 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+8 -> 150 [label = "t=2, p=2, uct=-nan"]
+150 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+5 -> 9 [label = "t=0, p=2, uct=6.39"]
+9 [label = "Q=21.80
+N=5
+ Q/N=4.36"]
+9 -> 187 [label = "t=7, p=0, uct=14.05"]
+187 [label = "Q=3.89
+N=1
+ Q/N=3.89"]
+9 -> 188 [label = "t=6, p=0, uct=13.86"]
+188 [label = "Q=4.08
+N=1
+ Q/N=4.08"]
+9 -> 189 [label = "t=5, p=0, uct=13.09"]
+189 [label = "Q=4.85
+N=1
+ Q/N=4.85"]
+9 -> 190 [label = "t=4, p=0, uct=13.55"]
+190 [label = "Q=4.40
+N=1
+ Q/N=4.40"]
+9 -> 191 [label = "t=3, p=0, uct=-nan"]
+191 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 192 [label = "t=2, p=0, uct=-nan"]
+192 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 193 [label = "t=7, p=1, uct=-nan"]
+193 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 194 [label = "t=6, p=1, uct=-nan"]
+194 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 195 [label = "t=5, p=1, uct=-nan"]
+195 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 196 [label = "t=4, p=1, uct=-nan"]
+196 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 197 [label = "t=3, p=1, uct=-nan"]
+197 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 198 [label = "t=2, p=1, uct=-nan"]
+198 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 199 [label = "t=7, p=2, uct=-nan"]
+199 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 200 [label = "t=6, p=2, uct=-nan"]
+200 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 201 [label = "t=5, p=2, uct=-nan"]
+201 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 202 [label = "t=4, p=2, uct=-nan"]
+202 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 203 [label = "t=3, p=2, uct=-nan"]
+203 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+9 -> 204 [label = "t=2, p=2, uct=-nan"]
+204 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+0 -> 6 [label = "t=0, p=2, uct=3.57"]
+6 [label = "Q=64.48
+N=17
+ Q/N=3.79"]
+6 -> 10 [label = "t=7, p=0, uct=20.50"]
+10 [label = "Q=3.31
+N=1
+ Q/N=3.31"]
+6 -> 11 [label = "t=6, p=0, uct=20.19"]
+11 [label = "Q=3.61
+N=1
+ Q/N=3.61"]
+6 -> 12 [label = "t=5, p=0, uct=20.25"]
+12 [label = "Q=3.56
+N=1
+ Q/N=3.56"]
+6 -> 13 [label = "t=4, p=0, uct=19.31"]
+13 [label = "Q=4.50
+N=1
+ Q/N=4.50"]
+6 -> 14 [label = "t=3, p=0, uct=19.95"]
+14 [label = "Q=3.85
+N=1
+ Q/N=3.85"]
+6 -> 15 [label = "t=2, p=0, uct=20.74"]
+15 [label = "Q=3.06
+N=1
+ Q/N=3.06"]
+6 -> 16 [label = "t=1, p=0, uct=20.25"]
+16 [label = "Q=3.55
+N=1
+ Q/N=3.55"]
+6 -> 17 [label = "t=7, p=1, uct=19.45"]
+17 [label = "Q=4.36
+N=1
+ Q/N=4.36"]
+6 -> 18 [label = "t=6, p=1, uct=19.99"]
+18 [label = "Q=3.81
+N=1
+ Q/N=3.81"]
+6 -> 19 [label = "t=5, p=1, uct=19.74"]
+19 [label = "Q=4.06
+N=1
+ Q/N=4.06"]
+6 -> 20 [label = "t=4, p=1, uct=19.36"]
+20 [label = "Q=4.45
+N=1
+ Q/N=4.45"]
+6 -> 21 [label = "t=3, p=1, uct=19.91"]
+21 [label = "Q=3.90
+N=1
+ Q/N=3.90"]
+6 -> 22 [label = "t=2, p=1, uct=20.32"]
+22 [label = "Q=3.48
+N=1
+ Q/N=3.48"]
+6 -> 23 [label = "t=1, p=1, uct=20.01"]
+23 [label = "Q=3.79
+N=1
+ Q/N=3.79"]
+6 -> 24 [label = "t=7, p=2, uct=20.18"]
+24 [label = "Q=3.63
+N=1
+ Q/N=3.63"]
+6 -> 25 [label = "t=6, p=2, uct=19.76"]
+25 [label = "Q=4.05
+N=1
+ Q/N=4.05"]
+6 -> 26 [label = "t=5, p=2, uct=-nan"]
+26 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+6 -> 27 [label = "t=4, p=2, uct=-nan"]
+27 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+6 -> 28 [label = "t=3, p=2, uct=-nan"]
+28 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+6 -> 29 [label = "t=2, p=2, uct=-nan"]
+29 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+6 -> 30 [label = "t=1, p=2, uct=-nan"]
+30 [label = "Q=0.00
+N=0
+ Q/N=-nan"]
+}
